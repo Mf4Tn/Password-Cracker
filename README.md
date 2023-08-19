@@ -17,6 +17,7 @@ Crack passwords like a pro with this versatile password cracker! This script eff
 Check out the GIF below to see the password cracker in action!
 
 ![Password Cracking Demo](https://github.com/Mf4Tn/Password-Cracker/assets/75338199/67aca3e9-7720-4e5f-86ec-9243e59bef68)
+
 👨‍💻 **Usage:**
 
 1. Update the passwords list in the code.
